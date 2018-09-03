@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>。",
+          "hyouki": [
+            "玉"
+          ]
+        },
+        {
+          "def": "<ruby><rb>美</rb><rt>うつく</rt></ruby>しいもの。<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>なもの。",
+          "hyouki": [
+            "玉"
+          ]
+        },
+        {
+          "def": "<ruby><rb>丸</rb><rt>まる</rt></ruby>いもの。",
+          "hyouki": [
+            "玉"
+          ]
+        },
+        {
+          "def": "<ruby><rb>丸</rb><rt>まる</rt></ruby>めたもの。",
+          "hyouki": [
+            "玉"
+          ]
+        },
+        {
+          "def": "レンズ。",
+          "hyouki": [
+            "玉"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>流</rb><rt>なが</rt></ruby>れ<ruby><rb>星</rb><rt>ぼし</rt></ruby>が、<ruby><rb>大気</rb><rt>たいき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<ruby><rb>燃</rb><rt>も</rt></ruby>えきらないで、<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>に<ruby><rb>落</rb><rt>お</rt></ruby>ちてきたもの。",
+          "hyouki": [
+            "隕石"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "（<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>が）すけて<ruby><rb>見</rb><rt>み</rt></ruby>える。",
+          "hyouki": [
+            "写る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>にとられる。",
+          "hyouki": [
+            "写る"
+          ]
+        }
+      ]
+    }
+  }
+}

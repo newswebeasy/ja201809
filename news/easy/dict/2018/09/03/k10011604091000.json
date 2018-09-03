@@ -1,0 +1,126 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれ、<ruby><rb>海</rb><rt>うみ</rt></ruby>に<ruby><rb>下</rb><rt>くだ</rt></ruby>って<ruby><rb>育</rb><rt>そだ</rt></ruby>ち、<ruby><rb>寒流</rb><rt>かんりゅう</rt></ruby>にすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>四</rb><rt>し</rt></ruby>、<ruby><rb>五</rb><rt>ご</rt></ruby><ruby><rb>年</rb><rt>ねん</rt></ruby>たつと、<ruby><rb>秋</rb><rt>あき</rt></ruby>、<ruby><rb>生</rb><rt>う</rt></ruby>まれた<ruby><rb>川</rb><rt>かわ</rt></ruby>をさかのぼって<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>産</rb><rt>う</rt></ruby>む。<ruby><rb>身</rb><rt>み</rt></ruby>だけでなく、<ruby><rb>卵</rb><rt>たまご</rt></ruby>も「すじこ」「イクラ」と<ruby><rb>呼</rb><rt>よ</rt></ruby>ばれて<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする。シャケ。アキアジ。",
+          "hyouki": [
+            "鮭"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。",
+          "hyouki": [
+            "漁"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>や<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などで、<ruby><rb>目</rb><rt>め</rt></ruby>をあらく<ruby><rb>編</rb><rt>あ</rt></ruby>んだもの。<ruby><rb>虫</rb><rt>むし</rt></ruby>や<ruby><rb>魚</rb><rt>さかな</rt></ruby>・けものなどをとるのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "網"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ただ<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。また、ほんの<ruby><rb>少</rb><rt>すこ</rt></ruby>し。",
+          "hyouki": [
+            "隻"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "隻"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>で、<ruby><rb>岸</rb><rt>きし</rt></ruby>から<ruby><rb>遠</rb><rt>とお</rt></ruby>くはなれた<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "沖"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>飛</rb><rt>と</rt></ruby>んで<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>上</rb><rt>あ</rt></ruby>がる。",
+          "hyouki": [
+            "飛び上がる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "つかれなどが、なくなる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>ることができる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "取れる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>利用</rb><rt>りよう</rt></ruby>できるように<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>設備</rb><rt>せつび</rt></ruby>。",
+          "hyouki": [
+            "施設"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。",
+          "hyouki": [
+            "作業"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>原子核</rb><rt>げんしかく</rt></ruby>がこわれたり（<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>）、とけあったり（<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>）するときに<ruby><rb>出</rb><rt>で</rt></ruby>る、ものすごく<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>。<ruby><rb>原子</rb><rt>げんし</rt></ruby>エネルギー。",
+          "hyouki": [
+            "原子力"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "発電所"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>を<ruby><rb>燃</rb><rt>も</rt></ruby>やして、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>などのエネルギーを<ruby><rb>得</rb><rt>え</rt></ruby>るもの。まき・<ruby><rb>炭</rb><rt>すみ</rt></ruby>・<ruby><rb>石炭</rb><rt>せきたん</rt></ruby>・<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>・ガスなど。",
+          "hyouki": [
+            "燃料"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>銀白色</rb><rt>ぎんはくしょく</rt></ruby>でやわらかい<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>食塩</rb><rt>しょくえん</rt></ruby>を<ruby><rb>電気分解</rb><rt>でんきぶんかい</rt></ruby>して<ruby><rb>作</rb><rt>つく</rt></ruby>る。",
+          "hyouki": [
+            "ナトリウム"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>冷</rb><rt>つめ</rt></ruby>たくする。",
+          "hyouki": [
+            "冷やす"
+          ]
+        },
+        {
+          "def": "びっくりする。",
+          "hyouki": [
+            "冷やす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>落</rb><rt>お</rt></ruby>ち<ruby><rb>着</rb><rt>つ</rt></ruby>かせる。",
+          "hyouki": [
+            "冷やす"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>・<ruby><rb>気体</rb><rt>きたい</rt></ruby>・<ruby><rb>光</rb><rt>ひかり</rt></ruby>などが、<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>穴</rb><rt>あな</rt></ruby>やすき<ruby><rb>間</rb><rt>ま</rt></ruby>から<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>る。もる。",
+          "hyouki": [
+            "漏れる"
+          ]
+        },
+        {
+          "def": "かくしていることが、ほかに<ruby><rb>知</rb><rt>し</rt></ruby>れる。",
+          "hyouki": [
+            "漏れる"
+          ]
+        },
+        {
+          "def": "ぬけ<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "漏れる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "もめごと。",
+          "hyouki": [
+            "トラブル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などの<ruby><rb>故障</rb><rt>こしょう</rt></ruby>。",
+          "hyouki": [
+            "トラブル"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>がゆっくりと<ruby><rb>続</rb><rt>つづ</rt></ruby>けて<ruby><rb>起</rb><rt>お</rt></ruby>こるように<ruby><rb>調節</rb><rt>ちょうせつ</rt></ruby>できる<ruby><rb>装置</rb><rt>そうち</rt></ruby>。そのときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>発電</rb><rt>はつでん</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "原子炉"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。",
+          "hyouki": [
+            "兆"
+          ]
+        },
+        {
+          "def": "しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。",
+          "hyouki": [
+            "兆"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。",
+          "hyouki": [
+            "計算"
+          ]
+        }
+      ]
+    }
+  }
+}
