@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011603901000/k10011603901000.html",
+      "title": "日本が研究と開発に使ったお金が２年続けて少なくなる",
+      "time": "NEWSWEB EASY 9月4日",
+      "datetime": "2018-09-04"
+    }
+  ],
   "word": [],
   "news_id": "k10011603901000",
   "yyyy": "2018",
