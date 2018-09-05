@@ -1,0 +1,69 @@
+{
+  "cate": "8",
+  "date": "9æ5æ¥ 14æ17å",
+  "datetime": "2018-09-05T14:17",
+  "video": "",
+  "duration": 0,
+  "img": "",
+  "title": "台風被害 ネット上では外国人から不安や驚きの声",
+  "summary": "台風21号の影響で大勢の外国人旅行者が利用する関西空港が閉鎖され、大阪の繁華街などでも窓ガラスが割れたり、屋根が飛ばされたりする被害が相次ぎました。ネット上では外国人からも不安や驚きの声が上がっています。",
+  "more": "ツイッターには、<br />“an exhausting and at times dangerous experience”（本当に危険で心身ともに疲れる体験だった）と嘆く滞在者の声に加えて、<br />“Bad Luck Japan. Earthquake,Tsunami,Volcano,<br />Nuclear Spills and now typhoons…Damn”（地震や津波、噴火に原発の事故に台風なんて日本はよくないことが続いているな…）といった投稿も見られます。<br /><br />また、浸水した関西空港や壊れた空港への連絡橋を見て、<br />“how to go to Japan”とか、<br />“I don’t know man hopefully fix the bridge in time”（いつ復旧するのか。一日も早く復旧してほしい）と不安を訴える声も相次いでいました。<br /><br />一方、“What hotel is offering shelter please?”（ホテルで避難できる場所を提供してくれるところってあるのか、教えてくれ！）などという声も聞かれました。",
+  "body": [
+    {
+      "title": "",
+      "img": "",
+      "align": "",
+      "text": "",
+      "textPos": ""
+    }
+  ],
+  "relationNews": [
+    {
+      "link": "html/20180905/k10011610031000.html",
+      "title": "台風 11人死亡600人余けが",
+      "date": "9月5日  12時59分",
+      "datetime": "2018-09-05T12:59",
+      "imgPath": "html/20180905/K10011610031_1809051300_1809051300_01_02.jpg",
+      "iconPath": "html/20180905/K10011610031_1809051300_1809051300_02_01.jpg",
+      "video": "",
+      "duration": 0
+    },
+    {
+      "link": "html/20180905/k10011610051000.html",
+      "title": "台風 全壊・半壊４棟 一部損壊986棟（午前11時）",
+      "date": "9月5日  12時27分",
+      "datetime": "2018-09-05T12:27",
+      "imgPath": "",
+      "iconPath": "",
+      "video": "",
+      "duration": 0
+    }
+  ],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/special/saigai/typhoon21/",
+      "title": "ニュース特設 台風21号",
+      "time": "",
+      "datetime": ""
+    }
+  ],
+  "word": [
+    {
+      "link": "word/0000659.html",
+      "title": "台風 影響"
+    },
+    {
+      "link": "word/0000682.html",
+      "title": "台風21号"
+    },
+    {
+      "link": "word/0000009.html",
+      "title": "IT・ネット"
+    }
+  ],
+  "news_id": "k10011610251000",
+  "yyyy": "2018",
+  "mm": "09",
+  "dd": "05",
+  "url": "https://www3.nhk.or.jp/news/html/20180905/k10011610251000.html"
+}
