@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011609571000",
+  "news_prearranged_time": "2018-09-05 16:15:00",
+  "title": "台風の強い風で関西空港の橋にタンカーがぶつかる",
+  "title_with_ruby": "<ruby>台風<rt>たいふう</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>で<ruby>関西空港<rt>かんさいくうこう</rt></ruby>の<ruby>橋<rt>はし</rt></ruby>にタンカーがぶつかる",
+  "outline_with_ruby": "<p><ruby>台風<rt>たいふう</rt></ruby>２１<ruby>号<rt>ごう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>関西地方<rt>かんさいちほう</rt></ruby></a>などで<ruby>大<rt>おお</rt></ruby>きな<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>被害<rt>ひがい</rt></ruby></a>が<ruby>出<rt>で</rt></ruby>ています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180905/../20180905/K10011609571_1809050659_1809050707_01_03.jpg",
+  "news_web_movie_uri": "k10011609571_201809050712_201809050712.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011609571000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011609571000/k10011609571000.html"
+}

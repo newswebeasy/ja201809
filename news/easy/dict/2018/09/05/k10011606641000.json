@@ -1,0 +1,140 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。",
+          "hyouki": [
+            "江戸時代"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まったもので、<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>、<ruby><rb>景色</rb><rt>けしき</rt></ruby>などをかいた<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>絵</rb><rt>え</rt></ruby>。<ruby><rb>筆</rb><rt>ふで</rt></ruby>でかいたものと、<ruby><rb>版画</rb><rt>はんが</rt></ruby>とがある。<ruby><rb>歌麿</rb><rt>うたまろ</rt></ruby>・<ruby><rb>北斎</rb><rt>ほくさい</rt></ruby>・<ruby><rb>広重</rb><rt>ひろしげ</rt></ruby>などが<ruby><rb>名高</rb><rt>なだか</rt></ruby>い。",
+          "hyouki": [
+            "浮世絵"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>始</rb><rt>はじ</rt></ruby>めること。",
+          "hyouki": [
+            "開会"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>をさかんにし、<ruby><rb>文化財</rb><rt>ぶんかざい</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "文化庁"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>役目</rb><rt>やくめ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>次官</rb><rt>じかん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。",
+          "hyouki": [
+            "長官"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>少</rb><rt>すこ</rt></ruby>ししかなく、<ruby><rb>貴重</rb><rt>きちょう</rt></ruby>なもの。<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・<ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>など。",
+          "hyouki": [
+            "宝"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "宝"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>小</rb><rt>ちい</rt></ruby>さなしるし。ぽち。",
+          "hyouki": [
+            "点"
+          ]
+        },
+        {
+          "def": "ことがら。",
+          "hyouki": [
+            "点"
+          ]
+        },
+        {
+          "def": "<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>位置</rb><rt>いち</rt></ruby>。",
+          "hyouki": [
+            "点"
+          ]
+        },
+        {
+          "def": "<ruby><rb>調</rb><rt>しら</rt></ruby>べる。",
+          "hyouki": [
+            "点"
+          ]
+        },
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>をともす。",
+          "hyouki": [
+            "点"
+          ]
+        },
+        {
+          "def": "<ruby><rb>少</rb><rt>すこ</rt></ruby>しずつ<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "点"
+          ]
+        },
+        {
+          "def": "<ruby><rb>成績</rb><rt>せいせき</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>数</rb><rt>かず</rt></ruby>。",
+          "hyouki": [
+            "点"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "点"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>文</rb><rt>ぶん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、<ruby><rb>意味</rb><rt>いみ</rt></ruby>の<ruby><rb>切</rb><rt>き</rt></ruby>れ<ruby><rb>目</rb><rt>め</rt></ruby>につけるしるし。「、」のこと。<ruby><rb>読点</rb><rt>とうてん</rt></ruby>。",
+          "hyouki": [
+            "点"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>図書館</rb><rt>としょかん</rt></ruby>・<ruby><rb>博物館</rb><rt>はくぶつかん</rt></ruby>・<ruby><rb>美術館</rb><rt>びじゅつかん</rt></ruby>など、「<ruby><rb>館</rb><rt>かん</rt></ruby>」のつく<ruby><rb>所</rb><rt>ところ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "館長"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>・<ruby><rb>考</rb><rt>かんが</rt></ruby>え・<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>などを、<ruby><rb>音</rb><rt>おと</rt></ruby>・<ruby><rb>色</rb><rt>いろ</rt></ruby>・<ruby><rb>形</rb><rt>かたち</rt></ruby>・ことばなどによって<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、<ruby><rb>表</rb><rt>あらわ</rt></ruby>した<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>・<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>など。",
+          "hyouki": [
+            "芸術"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>異性</rb><rt>いせい</rt></ruby>を<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きになる<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。<ruby><rb>恋愛</rb><rt>れんあい</rt></ruby>。",
+          "hyouki": [
+            "恋"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ほめる。たたえる。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "ほうび。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "<ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。",
+          "hyouki": [
+            "賞"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>指図</rb><rt>さしず</rt></ruby>や<ruby><rb>取</rb><rt>と</rt></ruby>りしまりなどをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "監督"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>劇</rb><rt>げき</rt></ruby>・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・テレビなどで、<ruby><rb>役</rb><rt>やく</rt></ruby>を<ruby><rb>演</rb><rt>えん</rt></ruby>じる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>役者</rb><rt>やくしゃ</rt></ruby>。",
+          "hyouki": [
+            "俳優"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれ<ruby><rb>育</rb><rt>そだ</rt></ruby>った<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>故郷</rb><rt>こきょう</rt></ruby>。",
+          "hyouki": [
+            "ふるさと"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>武芸</rb><rt>ぶげい</rt></ruby>を<ruby><rb>身</rb><rt>み</rt></ruby>につけて、いくさで<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>人</rb><rt>ひと</rt></ruby>。さむらい。",
+          "hyouki": [
+            "武士"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>相手</rb><rt>あいて</rt></ruby>。うらみを<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>相手</rb><rt>あいて</rt></ruby>。かたき。",
+          "hyouki": [
+            "敵"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>になる。",
+          "hyouki": [
+            "敵"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。",
+          "hyouki": [
+            "戦う"
+          ]
+        },
+        {
+          "def": "わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "戦う"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>などで、やめることが<ruby><rb>決</rb><rt>き</rt></ruby>められている<ruby><rb>年齢</rb><rt>ねんれい</rt></ruby>。",
+          "hyouki": [
+            "定年",
+            "・停年"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>って<ruby><rb>苦</rb><rt>くる</rt></ruby>しむ。<ruby><rb>心配</rb><rt>しんぱい</rt></ruby>する。",
+          "hyouki": [
+            "悩む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどで<ruby><rb>苦</rb><rt>くる</rt></ruby>しむ。",
+          "hyouki": [
+            "悩む"
+          ]
+        }
+      ]
+    }
+  }
+}
