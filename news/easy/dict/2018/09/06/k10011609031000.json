@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。",
+          "hyouki": [
+            "土"
+          ]
+        },
+        {
+          "def": "<ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。",
+          "hyouki": [
+            "土"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。プラスチックなどを<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>温度</rb><rt>おんど</rt></ruby>で<ruby><rb>燃</rb><rt>も</rt></ruby>やすと<ruby><rb>発生</rb><rt>はっせい</rt></ruby>する。",
+          "hyouki": [
+            "ダイオキシン"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。",
+          "hyouki": [
+            "毒"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>限</rb><rt>かぎ</rt></ruby>られたところ。ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "箇所"
+          ]
+        },
+        {
+          "def": "<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "箇所"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あるものごとが、ほかのものごとに<ruby><rb>力</rb><rt>ちから</rt></ruby>をおよぼして、そのようすを<ruby><rb>変</rb><rt>か</rt></ruby>えること。",
+          "hyouki": [
+            "影響"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>してよく<ruby><rb>見</rb><rt>み</rt></ruby>ること。",
+          "hyouki": [
+            "注目"
+          ]
+        }
+      ]
+    }
+  }
+}
