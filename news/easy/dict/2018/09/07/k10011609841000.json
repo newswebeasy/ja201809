@@ -1,0 +1,56 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>小説</rb><rt>しょうせつ</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>などの、<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>。",
+          "hyouki": [
+            "主人公"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>。<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "館"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>につけることば。",
+          "hyouki": [
+            "館"
+          ]
+        },
+        {
+          "def": "<ruby><rb>宿屋</rb><rt>やどや</rt></ruby>などの<ruby><rb>名前</rb><rt>なまえ</rt></ruby>につけることば。",
+          "hyouki": [
+            "館"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "スポーツや<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>などが、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きな<ruby><rb>人</rb><rt>ひと</rt></ruby>。または、ある<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>や、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>などを<ruby><rb>熱心</rb><rt>ねっしん</rt></ruby>に<ruby><rb>応援</rb><rt>おうえん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。フアン。",
+          "hyouki": [
+            "ファン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>扇風機</rb><rt>せんぷうき</rt></ruby>。<ruby><rb>送風機</rb><rt>そうふうき</rt></ruby>。<ruby><rb>換気扇</rb><rt>かんきせん</rt></ruby>。",
+          "hyouki": [
+            "ファン"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ヨーロッパ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中部</rb><rt>ちゅうぶ</rt></ruby>、スイス・フランス・イタリア・オーストリアにまたがる<ruby><rb>山脈</rb><rt>さんみゃく</rt></ruby>。モンブラン・マッターホルンなどの<ruby><rb>山々</rb><rt>やまやま</rt></ruby>が<ruby><rb>連</rb><rt>つら</rt></ruby>なる。<ruby><rb>氷河</rb><rt>ひょうが</rt></ruby>があり、<ruby><rb>風景</rb><rt>ふうけい</rt></ruby>もよい。",
+          "hyouki": [
+            "アルプス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>日本</rb><rt>にほん</rt></ruby>アルプスのこと。",
+          "hyouki": [
+            "アルプス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>に<ruby><rb>登</rb><rt>のぼ</rt></ruby>ること。<ruby><rb>山登</rb><rt>やまのぼ</rt></ruby>り。",
+          "hyouki": [
+            "登山"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>底</rb><rt>そこ</rt></ruby>がゴムでできた<ruby><rb>運動</rb><rt>うんどう</rt></ruby>ぐつ。",
+          "hyouki": [
+            "スニーカー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "（<ruby><rb>思</rb><rt>おも</rt></ruby>いがけないものごとに）たまたま<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "遭う"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>などのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>。",
+          "hyouki": [
+            "頂"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>結</rb><rt>むす</rt></ruby>んであるものが、はなれる。",
+          "hyouki": [
+            "解ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>消</rb><rt>き</rt></ruby>える。",
+          "hyouki": [
+            "解ける"
+          ]
+        },
+        {
+          "def": "わからなかったことが、わかる。",
+          "hyouki": [
+            "解ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>雪</rb><rt>ゆき</rt></ruby>や<ruby><rb>氷</rb><rt>こおり</rt></ruby>などが、<ruby><rb>水</rb><rt>みず</rt></ruby>になる。",
+          "hyouki": [
+            "解ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちがゆるむ。",
+          "hyouki": [
+            "解ける"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>登山</rb><rt>とざん</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>が、とまったり<ruby><rb>休</rb><rt>やす</rt></ruby>んだりするために、<ruby><rb>山</rb><rt>やま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>建</rb><rt>た</rt></ruby>ててある<ruby><rb>小屋</rb><rt>こや</rt></ruby>。",
+          "hyouki": [
+            "山小屋"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。",
+          "hyouki": [
+            "許可"
+          ]
+        }
+      ]
+    }
+  }
+}

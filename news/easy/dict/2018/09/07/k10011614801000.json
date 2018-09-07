@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国内</rb><rt>こくない</rt></ruby>の<ruby><rb>空港</rb><rt>くうこう</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで<ruby><rb>運航</rb><rt>うんこう</rt></ruby>する<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>の<ruby><rb>路線</rb><rt>ろせん</rt></ruby>。",
+          "hyouki": [
+            "国内線"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>飛行場</rb><rt>ひこうじょう</rt></ruby>で、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>が<ruby><rb>離着陸</rb><rt>りちゃくりく</rt></ruby>するときに<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。",
+          "hyouki": [
+            "滑走路"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>目的地</rb><rt>もくてきち</rt></ruby>に<ruby><rb>着</rb><rt>つ</rt></ruby>くこと。",
+          "hyouki": [
+            "到着"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで<ruby><rb>運航</rb><rt>うんこう</rt></ruby>する<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>の<ruby><rb>路線</rb><rt>ろせん</rt></ruby>。",
+          "hyouki": [
+            "国際線"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている、<ruby><rb>一人</rb><rt>ひとり</rt></ruby><ruby><rb>一人</rb><rt>ひとり</rt></ruby>。<ruby><rb>一人</rb><rt>ひとり</rt></ruby>の<ruby><rb>人間</rb><rt>にんげん</rt></ruby>。",
+          "hyouki": [
+            "個人"
+          ]
+        }
+      ]
+    }
+  }
+}

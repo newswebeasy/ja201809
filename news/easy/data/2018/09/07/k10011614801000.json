@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011614801000",
+  "news_prearranged_time": "2018-09-07 17:00:00",
+  "title": "関西空港　国内線の一部の飛行機が飛び始める",
+  "title_with_ruby": "<ruby>関西空港<rt>かんさいくうこう</rt></ruby>　<ruby>国内線<rt>こくないせん</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>飛<rt>と</rt></ruby>び<ruby>始<rt>はじ</rt></ruby>める",
+  "outline_with_ruby": "<p><ruby>台風<rt>たいふう</rt></ruby>２１<ruby>号<rt>ごう</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>被害<rt>ひがい</rt></ruby></a>があって、<ruby>大阪<rt>おおさか</rt></ruby>にある<ruby>関西空港<rt>かんさいくうこう</rt></ruby>は<ruby>４日<rt>よっか</rt></ruby>から<ruby>使<rt>つか</rt></ruby>うことができなくなりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180906/../20180906/K10011614801_1809062334_1809062336_01_02.jpg",
+  "news_web_movie_uri": "k10011614801_201809070638_201809070641.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011614801000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011614801000/k10011614801000.html"
+}
