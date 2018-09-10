@@ -1,0 +1,164 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばんすぐれた<ruby><rb>記録</rb><rt>きろく</rt></ruby>。",
+          "hyouki": [
+            "世界記録"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。",
+          "hyouki": [
+            "記録"
+          ]
+        },
+        {
+          "def": "<ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。",
+          "hyouki": [
+            "記録"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>区分</rb><rt>くわ</rt></ruby>け。<ruby><rb>区分</rb><rt>くわ</rt></ruby>けした<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>本</rb><rt>ほん</rt></ruby>や<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "部"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>からはなれた<ruby><rb>上</rb><rt>うえ</rt></ruby>のほう。そら。",
+          "hyouki": [
+            "空中"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "つり<ruby><rb>下</rb><rt>さ</rt></ruby>げた、<ruby><rb>二本</rb><rt>にほん</rt></ruby>のくさりやつなの<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>横木</rb><rt>よこぎ</rt></ruby>をわたし、そこに<ruby><rb>乗</rb><rt>の</rt></ruby>って<ruby><rb>前後</rb><rt>ぜんご</rt></ruby>にゆり<ruby><rb>動</rb><rt>うご</rt></ruby>かしながら<ruby><rb>遊</rb><rt>あそ</rt></ruby>ぶ<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "ぶらんこ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>。<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>。",
+          "hyouki": [
+            "技"
+          ]
+        },
+        {
+          "def": "すもうや<ruby><rb>柔道</rb><rt>じゅうどう</rt></ruby>などで、<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>負</rb><rt>ま</rt></ruby>かすための<ruby><rb>動作</rb><rt>どうさ</rt></ruby>。",
+          "hyouki": [
+            "技"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>生</rb><rt>う</rt></ruby>まれてから<ruby><rb>今</rb><rt>いま</rt></ruby>までの<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。とし。",
+          "hyouki": [
+            "年齢"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>毛糸</rb><rt>けいと</rt></ruby>などを<ruby><rb>編</rb><rt>あ</rt></ruby>んで、<ruby><rb>手袋</rb><rt>てぶくろ</rt></ruby>やセーターなどを<ruby><rb>作</rb><rt>つく</rt></ruby>ること。また、<ruby><rb>編</rb><rt>あ</rt></ruby>んだ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "編み物"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>をつけて<ruby><rb>布</rb><rt>ぬの</rt></ruby>などをぬう、<ruby><rb>細</rb><rt>ほそ</rt></ruby>くて<ruby><rb>先</rb><rt>さき</rt></ruby>のとがったもの。",
+          "hyouki": [
+            "針"
+          ]
+        },
+        {
+          "def": "さいほう。",
+          "hyouki": [
+            "針"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>ほそ</rt></ruby>くて<ruby><rb>先</rb><rt>さき</rt></ruby>のとがったもの。",
+          "hyouki": [
+            "針"
+          ]
+        },
+        {
+          "def": "<ruby><rb>釣</rb><rt>つ</rt></ruby>り<ruby><rb>針</rb><rt>ばり</rt></ruby>。",
+          "hyouki": [
+            "針"
+          ]
+        },
+        {
+          "def": "とげとげしい<ruby><rb>感</rb><rt>かん</rt></ruby>じ。",
+          "hyouki": [
+            "針"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        },
+        {
+          "def": "「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のおどり。",
+          "hyouki": [
+            "ダンス"
+          ]
+        }
+      ]
+    }
+  }
+}

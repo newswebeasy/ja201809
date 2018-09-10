@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "発電所"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あるものやことがらのすべて。",
+          "hyouki": [
+            "全体"
+          ]
+        },
+        {
+          "def": "もともと。もとはといえば。",
+          "hyouki": [
+            "全体"
+          ]
+        },
+        {
+          "def": "いったい。いったいぜんたい。",
+          "hyouki": [
+            "全体"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "こわれているところを<ruby><rb>直</rb><rt>なお</rt></ruby>すこと。<ruby><rb>修繕</rb><rt>しゅうぜん</rt></ruby>。",
+          "hyouki": [
+            "修理"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ]
+    }
+  }
+}
