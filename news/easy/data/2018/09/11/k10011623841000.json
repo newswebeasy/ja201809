@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011623841000",
+  "news_prearranged_time": "2018-09-11 17:05:00",
+  "title": "北海道で１番大きい発電所「全部動くのは１１月かそのあと」",
+  "title_with_ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><ruby>大<rt>おお</rt></ruby>きい<ruby>発電所<rt>はつでんしょ</rt></ruby>「<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>動<rt>うご</rt></ruby>くのは１１<ruby>月<rt>がつ</rt></ruby>かそのあと」",
+  "outline_with_ruby": "<p><ruby>北海道<rt>ほっかいどう</rt></ruby>で<ruby>６日<rt>むいか</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>起<rt>お</rt></ruby>こっ</a>た<ruby>地震<rt>じしん</rt></ruby>のあと、<ruby>北海道<rt>ほっかいどう</rt></ruby>でいちばん<ruby>大<rt>おお</rt></ruby>きい<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>発電所<rt>はつでんしょ</rt></ruby></a>の「<ruby>苫東厚真火力発電所<rt>とまとうあつまかりょくはつでんしょ</rt></ruby>」は<ruby>止<rt>と</rt></ruby>まったままです。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180911/../20180911/K10011623841_1809111209_1809111211_01_04.jpg",
+  "news_web_movie_uri": "k10011623841_201809111211_201809111212.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011623841000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011623841000/k10011623841000.html"
+}
