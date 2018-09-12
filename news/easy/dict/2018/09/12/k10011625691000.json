@@ -1,0 +1,168 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。",
+          "hyouki": [
+            "テロ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を、のっとること。",
+          "hyouki": [
+            "ハイジャック"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        },
+        {
+          "def": "ものごとにかかわる。<ruby><rb>関係</rb><rt>かんけい</rt></ruby>する。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        },
+        {
+          "def": "ものごとにかかわる。<ruby><rb>関係</rb><rt>かんけい</rt></ruby>する。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "代表"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。",
+          "hyouki": [
+            "代表"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>全部</rb><rt>ぜんぶ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。みんな。",
+          "hyouki": [
+            "全員"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>。",
+          "hyouki": [
+            "遺体"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>に<ruby><rb>傷</rb><rt>きず</rt></ruby>がつく。<ruby><rb>少</rb><rt>すこ</rt></ruby>しこわれる。",
+          "hyouki": [
+            "傷む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>がくさったり、<ruby><rb>傷</rb><rt>きず</rt></ruby>がついたりする。",
+          "hyouki": [
+            "傷む"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "あるできごとを<ruby><rb>記念</rb><rt>きねん</rt></ruby>して<ruby><rb>建</rb><rt>た</rt></ruby>てる<ruby><rb>石碑</rb><rt>せきひ</rt></ruby>。",
+          "hyouki": [
+            "記念碑"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ]
+    }
+  }
+}

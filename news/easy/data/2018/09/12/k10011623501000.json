@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011623501000",
+  "news_prearranged_time": "2018-09-12 11:30:00",
+  "title": "日本のたくさんの所にアライグマが住んでいる",
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>のたくさんの<ruby>所<rt>ところ</rt></ruby>にアライグマが<ruby>住<rt>す</rt></ruby>んでいる",
+  "outline_with_ruby": "<p>アライグマは<ruby>北<rt>きた</rt></ruby>アメリカで<ruby>生<rt>う</rt></ruby>まれた<ruby>動物<rt>どうぶつ</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>にたくさん<ruby>輸入<rt>ゆにゅう</rt></ruby>されてペットになっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180911/../20180911/K10011623501_1809110037_1809110446_01_02.jpg",
+  "news_web_movie_uri": "k10011623501_201809110453_201809110507.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011623501000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011623501000/k10011623501000.html"
+}
