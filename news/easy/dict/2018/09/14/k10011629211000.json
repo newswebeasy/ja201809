@@ -1,0 +1,64 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで<ruby><rb>運航</rb><rt>うんこう</rt></ruby>する<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>の<ruby><rb>路線</rb><rt>ろせん</rt></ruby>。",
+          "hyouki": [
+            "国際線"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>やバスの<ruby><rb>路線</rb><rt>ろせん</rt></ruby>が<ruby><rb>集中</rb><rt>しゅうちゅう</rt></ruby>して<ruby><rb>発着</rb><rt>はっちゃく</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "ターミナル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>空港</rb><rt>くうこう</rt></ruby>の<ruby><rb>施設</rb><rt>しせつ</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まっている<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。ターミナルビル。",
+          "hyouki": [
+            "ターミナル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>電池</rb><rt>でんち</rt></ruby>などの、<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>の<ruby><rb>出入</rb><rt>でい</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>につける<ruby><rb>金具</rb><rt>かなぐ</rt></ruby>。",
+          "hyouki": [
+            "ターミナル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>末端</rb><rt>まったん</rt></ruby>。<ruby><rb>終着点</rb><rt>しゅうちゃくてん</rt></ruby>。",
+          "hyouki": [
+            "ターミナル"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国内</rb><rt>こくない</rt></ruby>の<ruby><rb>空港</rb><rt>くうこう</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで<ruby><rb>運航</rb><rt>うんこう</rt></ruby>する<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>の<ruby><rb>路線</rb><rt>ろせん</rt></ruby>。",
+          "hyouki": [
+            "国内線"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などで<ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>ぶこと。",
+          "hyouki": [
+            "航空"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>目的地</rb><rt>もくてきち</rt></ruby>に<ruby><rb>着</rb><rt>つ</rt></ruby>くこと。",
+          "hyouki": [
+            "到着"
+          ]
+        }
+      ]
+    }
+  }
+}
