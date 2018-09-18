@@ -1,0 +1,156 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>腰</rb><rt>こし</rt></ruby>の<ruby><rb>後</rb><rt>うし</rt></ruby>ろの、<ruby><rb>肉</rb><rt>にく</rt></ruby>のふっくらした<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。おしり。",
+          "hyouki": [
+            "尻"
+          ]
+        },
+        {
+          "def": "<ruby><rb>後</rb><rt>うし</rt></ruby>ろ。あと。",
+          "hyouki": [
+            "尻"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>のはしっこや<ruby><rb>底</rb><rt>そこ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "尻"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。",
+          "hyouki": [
+            "贈る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。",
+          "hyouki": [
+            "贈る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ほめる。たたえる。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "ほうび。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "<ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。",
+          "hyouki": [
+            "賞"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>消化器</rb><rt>しょうかき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>小腸</rb><rt>しょうちょう</rt></ruby>に<ruby><rb>続</rb><rt>つづ</rt></ruby>き、<ruby><rb>肛門</rb><rt>こうもん</rt></ruby>に<ruby><rb>至</rb><rt>いた</rt></ruby>る<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。おもに<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>い<ruby><rb>取</rb><rt>と</rt></ruby>るはたらきをする。",
+          "hyouki": [
+            "大腸"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ある<ruby><rb>問題</rb><rt>もんだい</rt></ruby>についての<ruby><rb>考</rb><rt>かんが</rt></ruby>えや、<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>した<ruby><rb>結果</rb><rt>けっか</rt></ruby>を、<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てて<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。",
+          "hyouki": [
+            "論文"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。",
+          "hyouki": [
+            "贈る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。",
+          "hyouki": [
+            "贈る"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>や<ruby><rb>看護師</rb><rt>かんごし</rt></ruby>、<ruby><rb>実験</rb><rt>じっけん</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>などが<ruby><rb>着</rb><rt>き</rt></ruby>る、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>上着</rb><rt>うわぎ</rt></ruby>。",
+          "hyouki": [
+            "白衣"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>が<ruby><rb>安</rb><rt>やす</rt></ruby>らかで、ゆったりしていること。",
+          "hyouki": [
+            "楽"
+          ]
+        },
+        {
+          "def": "たやすいこと。",
+          "hyouki": [
+            "楽"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。",
+          "hyouki": [
+            "がん"
+          ]
+        }
+      ]
+    }
+  }
+}
