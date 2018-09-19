@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011633201000",
+  "news_prearranged_time": "2018-09-19 11:30:00",
+  "title": "ドイツ　世界で初めて水素からつくった電気で走る電車",
+  "title_with_ruby": "ドイツ　<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>水素<rt>すいそ</rt></ruby>からつくった<ruby>電気<rt>でんき</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る<ruby>電車<rt>でんしゃ</rt></ruby>",
+  "outline_with_ruby": "<p>ドイツのニーダーザクセン<ruby>州<rt>しゅう</rt></ruby>にある<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>鉄道<rt>てつどう</rt></ruby></a><ruby>会社<rt>がいしゃ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>線路<rt>せんろ</rt></ruby></a>で、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>水素<rt>すいそ</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0003'>エネルギー</a>を<ruby>使<rt>つか</rt></ruby>った<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>走<rt>はし</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180917/../20180917/K10011633201_1809170515_1809170516_01_03.jpg",
+  "news_web_movie_uri": "k10011633201_201809170515_201809170516.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011633201000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011633201000/k10011633201000.html"
+}

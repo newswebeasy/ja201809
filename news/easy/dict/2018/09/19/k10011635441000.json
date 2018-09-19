@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>の<ruby><rb>燃</rb><rt>も</rt></ruby>える<ruby><rb>勢</rb><rt>いきお</rt></ruby>い。<ruby><rb>火</rb><rt>ひ</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>。",
+          "hyouki": [
+            "火力"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "発電所"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>備</rb><rt>そな</rt></ruby>えつけること。また、そのもの。",
+          "hyouki": [
+            "設備"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かしたりするための、<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こすかま。",
+          "hyouki": [
+            "ボイラー"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "もめごと。",
+          "hyouki": [
+            "トラブル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などの<ruby><rb>故障</rb><rt>こしょう</rt></ruby>。",
+          "hyouki": [
+            "トラブル"
+          ]
+        }
+      ]
+    }
+  }
+}
