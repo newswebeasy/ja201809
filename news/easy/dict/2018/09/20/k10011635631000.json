@@ -1,0 +1,122 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>にできるイモを<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>のはじめ、<ruby><rb>白</rb><rt>しろ</rt></ruby>またはうすむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。ばれいしょ。",
+          "hyouki": [
+            "じゃがいも"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>何台</rb><rt>なんだい</rt></ruby>もつながっている、<ruby><rb>客車</rb><rt>きゃくしゃ</rt></ruby>や<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>。",
+          "hyouki": [
+            "列車"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "だます。",
+          "hyouki": [
+            "乗せる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>日本列島</rb><rt>にっぽんれっとう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、いちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>島</rb><rt>しま</rt></ruby>。",
+          "hyouki": [
+            "本州"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。",
+          "hyouki": [
+            "線路"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "こわれているところを<ruby><rb>直</rb><rt>なお</rt></ruby>すこと。<ruby><rb>修繕</rb><rt>しゅうぜん</rt></ruby>。",
+          "hyouki": [
+            "修理"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>地下</rb><rt>ちか</rt></ruby>や<ruby><rb>海底</rb><rt>かいてい</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>をあけて、<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>などが<ruby><rb>通</rb><rt>とお</rt></ruby>れるようにしたもの。",
+          "hyouki": [
+            "トンネル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>野手</rb><rt>やしゅ</rt></ruby>がゴロを<ruby><rb>取</rb><rt>と</rt></ruby>りそこなって、またの<ruby><rb>間</rb><rt>あいだ</rt></ruby>から<ruby><rb>後</rb><rt>うし</rt></ruby>ろにのがすこと。",
+          "hyouki": [
+            "トンネル"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "トラック"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。",
+          "hyouki": [
+            "感じる"
+          ]
+        }
+      ]
+    }
+  }
+}

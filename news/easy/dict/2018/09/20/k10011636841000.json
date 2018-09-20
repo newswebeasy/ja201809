@@ -1,0 +1,114 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>正</rb><rt>ただ</rt></ruby>しくないこと。",
+          "hyouki": [
+            "不正"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。",
+          "hyouki": [
+            "役所"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "「わび」のていねいな<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>方</rb><rt>かた</rt></ruby>。あやまること。また、そのことば。",
+          "hyouki": [
+            "おわび"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>一生懸命</rb><rt>いっしょうけんめい</rt></ruby>にすること。",
+          "hyouki": [
+            "努力"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ]
+    }
+  }
+}

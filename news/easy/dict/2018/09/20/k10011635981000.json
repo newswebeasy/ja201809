@@ -1,0 +1,138 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "１チーム１５<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が、<ruby><rb>楕円形</rb><rt>だえんけい</rt></ruby>のボールを、<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>走</rb><rt>はし</rt></ruby>ったり、けったりして<ruby><rb>相手側</rb><rt>あいてがわ</rt></ruby>のゴールライン<ruby><rb>内</rb><rt>ない</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>得点</rb><rt>とくてん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "ラグビー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。",
+          "hyouki": [
+            "ワールドカップ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "きっぷ。<ruby><rb>券</rb><rt>けん</rt></ruby>。<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>・<ruby><rb>乗車券</rb><rt>じょうしゃけん</rt></ruby>・<ruby><rb>食券</rb><rt>しょっけん</rt></ruby>など。",
+          "hyouki": [
+            "チケット"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>申</rb><rt>もう</rt></ruby>しこむこと。",
+          "hyouki": [
+            "申し込み"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "申し込む"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "くじ<ruby><rb>引</rb><rt>び</rt></ruby>き。",
+          "hyouki": [
+            "抽選"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "申し込む"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。",
+          "hyouki": [
+            "Eメール"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>住所</rb><rt>じゅうしょ</rt></ruby>。あて<ruby><rb>名</rb><rt>な</rt></ruby>。",
+          "hyouki": [
+            "アドレス"
+          ]
+        },
+        {
+          "def": "インターネットなど、コンピューターの<ruby><rb>通信</rb><rt>つうしん</rt></ruby>ネットワーク<ruby><rb>上</rb><rt>じょう</rt></ruby>に<ruby><rb>存在</rb><rt>そんざい</rt></ruby>する<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>すもの。<ruby><rb>住所</rb><rt>じゅうしょ</rt></ruby>や<ruby><rb>電話番号</rb><rt>でんわばんごう</rt></ruby>にあたる。",
+          "hyouki": [
+            "アドレス"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などに<ruby><rb>届</rb><rt>とど</rt></ruby>け<ruby><rb>出</rb><rt>で</rt></ruby>て、おおやけに<ruby><rb>認</rb><rt>みと</rt></ruby>めてもらうこと。",
+          "hyouki": [
+            "登録"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "申し込む"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ]
+    }
+  }
+}
