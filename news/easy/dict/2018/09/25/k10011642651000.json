@@ -1,0 +1,152 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人類</rb><rt>じんるい</rt></ruby>を、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>、<ruby><rb>体</rb><rt>からだ</rt></ruby>つきなどの<ruby><rb>特徴</rb><rt>とくちょう</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>。",
+          "hyouki": [
+            "人種"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "あるものとほかのものとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>差</rb><rt>さ</rt></ruby>をつけて、あつかい<ruby><rb>方</rb><rt>かた</rt></ruby>をちがわせること。",
+          "hyouki": [
+            "差別"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>などの<ruby><rb>姿</rb><rt>すがた</rt></ruby>を、<ruby><rb>青銅</rb><rt>せいどう</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>像</rb><rt>ぞう</rt></ruby>。",
+          "hyouki": [
+            "銅像"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "代表"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。",
+          "hyouki": [
+            "代表"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。",
+          "hyouki": [
+            "平和"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。",
+          "hyouki": [
+            "平和"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれたときから<ruby><rb>持</rb><rt>も</rt></ruby>っている、<ruby><rb>自由</rb><rt>じゆう</rt></ruby>・<ruby><rb>平等</rb><rt>びょうどう</rt></ruby>などの<ruby><rb>権利</rb><rt>けんり</rt></ruby>。",
+          "hyouki": [
+            "人権"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>何事</rb><rt>なにごと</rt></ruby>もおそれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>心</rb><rt>こころ</rt></ruby>。",
+          "hyouki": [
+            "勇気"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>をつくり、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>総理大臣</rb><rt>そうりだいじん</rt></ruby>と<ruby><rb>国務大臣</rb><rt>こくむだいじん</rt></ruby>とがある。",
+          "hyouki": [
+            "大臣"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "（<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>やほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に）こうしてほしいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。たのむ。<ruby><rb>望</rb><rt>のぞ</rt></ruby>む。",
+          "hyouki": [
+            "願う"
+          ]
+        }
+      ],
+      "0015": [
+        {
+          "def": "<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。",
+          "hyouki": [
+            "話し合い"
+          ]
+        }
+      ]
+    }
+  }
+}

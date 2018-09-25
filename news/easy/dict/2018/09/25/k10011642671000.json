@@ -1,0 +1,36 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "発電所"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>羽根車</rb><rt>はねぐるま</rt></ruby>を<ruby><rb>回転</rb><rt>かいてん</rt></ruby>させ、<ruby><rb>動力</rb><rt>どうりょく</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>る<ruby><rb>機械</rb><rt>きかい</rt></ruby>。",
+          "hyouki": [
+            "タービン"
+          ]
+        }
+      ]
+    }
+  }
+}
