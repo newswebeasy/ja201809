@@ -1,0 +1,104 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "産む"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>二人</rb><rt>ふたり</rt></ruby>で<ruby><rb>組</rb><rt>く</rt></ruby>むときの<ruby><rb>相手</rb><rt>あいて</rt></ruby>。",
+          "hyouki": [
+            "パートナー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>腕</rb><rt>うで</rt></ruby>でかかえて<ruby><rb>持</rb><rt>も</rt></ruby>つ。",
+          "hyouki": [
+            "抱く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>持</rb><rt>も</rt></ruby>つ。",
+          "hyouki": [
+            "抱く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>温</rb><rt>あたた</rt></ruby>めてひなをかえす。",
+          "hyouki": [
+            "抱く"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "カード"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>第一</rb><rt>だいいち</rt></ruby>。<ruby><rb>最初</rb><rt>さいしょ</rt></ruby>。",
+          "hyouki": [
+            "ファースト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで<ruby><rb>一塁</rb><rt>いちるい</rt></ruby>。また、<ruby><rb>一塁</rb><rt>いちるい</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ファースト"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>ちゃん。",
+          "hyouki": [
+            "ベビー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>小</rb><rt>ちい</rt></ruby>さいこと。<ruby><rb>小型</rb><rt>こがた</rt></ruby>。",
+          "hyouki": [
+            "ベビー"
+          ]
+        }
+      ]
+    }
+  }
+}

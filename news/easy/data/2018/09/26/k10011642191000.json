@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011642191000",
+  "news_prearranged_time": "2018-09-26 11:30:00",
+  "title": "福島県　海でヒラメなどの魚が増えている",
+  "title_with_ruby": "<ruby>福島県<rt>ふくしまけん</rt></ruby>　<ruby>海<rt>うみ</rt></ruby>でヒラメなどの<ruby>魚<rt>さかな</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている",
+  "outline_with_ruby": "<p><ruby>福島県<rt>ふくしまけん</rt></ruby>は、２０１１<ruby>年<rt>ねん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>原子力<rt>げんしりょく</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>発電所<rt>はつでんしょ</rt></ruby></a>の<ruby>事故<rt>じこ</rt></ruby>のあと、<ruby>海<rt>うみ</rt></ruby>で<ruby>魚<rt>さかな</rt></ruby>をとることができる<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>回数<rt>かいすう</rt></ruby></a>や<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180924/../20180924/K10011642191_1809241533_1809241617_01_02.jpg",
+  "news_web_movie_uri": "k10011642191_201809241819_201809241820.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011642191000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011642191000/k10011642191000.html"
+}

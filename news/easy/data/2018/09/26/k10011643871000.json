@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011643871000",
+  "news_prearranged_time": "2018-09-26 16:00:00",
+  "title": "東京オリンピック　ボランティアの受け付けが始まる",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピック　ボランティアの<ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>けが<ruby>始<rt>はじ</rt></ruby>まる",
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<a href='javascript:void(0)' class='dicWin' id='id-0002'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0003'>パラリンピック</a>を<ruby>手伝<rt>てつだ</rt></ruby>う<a href='javascript:void(0)' class='dicWin' id='id-0000'>ボランティア</a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>け</a>が２６<ruby>日<rt>にち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180926/../20180926/K10011643871_1809260554_1809260555_01_03.jpg",
+  "news_web_movie_uri": "k10011643871_201809260554_201809260555.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011643871000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011643871000/k10011643871000.html"
+}
