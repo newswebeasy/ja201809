@@ -1,0 +1,196 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>の<ruby><rb>北部</rb><rt>ほくぶ</rt></ruby>の、<ruby><rb>島</rb><rt>しま</rt></ruby>にすむけもの。<ruby><rb>雄</rb><rt>おす</rt></ruby>は<ruby><rb>大</rb><rt>おお</rt></ruby>きくて、<ruby><rb>二</rb><rt>に</rt></ruby>メートル<ruby><rb>以上</rb><rt>いじょう</rt></ruby>になる。<ruby><rb>四本</rb><rt>よんほん</rt></ruby>の<ruby><rb>足</rb><rt>あし</rt></ruby>は、ひれのような<ruby><rb>形</rb><rt>かたち</rt></ruby>をしていて、<ruby><rb>泳</rb><rt>およ</rt></ruby>ぐのがうまい。",
+          "hyouki": [
+            "おっとせい"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ、<ruby><rb>骨</rb><rt>ほね</rt></ruby>のない、やわらかな<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>物</rb><rt>もの</rt></ruby>に<ruby><rb>吸</rb><rt>す</rt></ruby>いつくいぼ（<ruby><rb>吸盤</rb><rt>きゅうばん</rt></ruby>）のついた<ruby><rb>足</rb><rt>あし</rt></ruby>が<ruby><rb>八本</rb><rt>はちほん</rt></ruby>ある。<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする。",
+          "hyouki": [
+            "蛸"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ぶつかる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>する。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ねらったとおりうまくいく。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを）<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ちょうど<ruby><rb>当</rb><rt>あ</rt></ruby>てはまる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>にある。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かめる。<ruby><rb>調</rb><rt>しら</rt></ruby>べる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ひどい<ruby><rb>目</rb><rt>め</rt></ruby>にあわせる。",
+          "hyouki": [
+            "当たる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>のわくにアザラシの<ruby><rb>皮</rb><rt>かわ</rt></ruby>をはり、<ruby><rb>一本</rb><rt>いっぽん</rt></ruby>のかいでこぐ<ruby><rb>小舟</rb><rt>こぶね</rt></ruby>。",
+          "hyouki": [
+            "カヤック"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」に<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>舟</rb><rt>ふね</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ったカヌー<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "カヤック"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。",
+          "hyouki": [
+            "突然"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>口</rb><rt>くち</rt></ruby>で<ruby><rb>物</rb><rt>もの</rt></ruby>をはさんで<ruby><rb>支</rb><rt>ささ</rt></ruby>える。",
+          "hyouki": [
+            "くわえる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ぶつかる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>する。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ねらったとおりうまくいく。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを）<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ちょうど<ruby><rb>当</rb><rt>あ</rt></ruby>てはまる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>にある。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かめる。<ruby><rb>調</rb><rt>しら</rt></ruby>べる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ひどい<ruby><rb>目</rb><rt>め</rt></ruby>にあわせる。",
+          "hyouki": [
+            "当たる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ]
+    }
+  }
+}
